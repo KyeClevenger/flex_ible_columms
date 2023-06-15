@@ -1,0 +1,38 @@
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.col {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightcyan;
+}
+
+.col-1 {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightcyan;
+
+}
+
+.col-2 {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightcyan;
+
+}
+
+.col-3 {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightcyan;
+
+}
